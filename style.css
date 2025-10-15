@@ -1,0 +1,75 @@
+body, div{
+  margin: 0;
+  padding:0;
+  color:cream;
+}
+
+body, div{ 
+  background-color: Taupe;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+img{
+       float: left;
+       margin-right: 20px;
+}
+th { width: 200px
+ul { list-style-type: square; 
+}
+
+header {
+  background-color: Ivory;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+#entete-de-page {
+    padding: 5px;
+    height: 100px;
+    background-color: lightgrey;
+    font-size: 32px;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: center;
+}
+#bloc-menu {
+      height: 36px;
+      background-color: steelblue;
+      float: center;
+      color: ecru;
+}
+#contenu { 
+      padding: 10px;
+      background-color: greige;
+}
+#infos { 
+       color: darkblue;
+       font-style: italic;
+}
+#pied-de-page {
+        padding: 5px;
+        background-color: lightgrey;
+        font-size: 11px;
+}
